@@ -1,0 +1,15 @@
+12/4/17
+Homework 3: Ray Casting and Tracing
+Computer Graphics Group B
+Romy Aboudarham 
+
+1. ChessBoard
+2. Environment
+3. Pawns
+4. Sun 
+5. Ebony and Ivory
+6. Wood
+7. Kings 
+8. Normal mapping
+9. Queens 
+10. Animation
